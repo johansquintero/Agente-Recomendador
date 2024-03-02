@@ -23,14 +23,15 @@ En el presente proyecto muestro la construcción de una sistema de recomendació
 * pytorch
 * OpenAI
 * Embeddings
+* Mistral
+* GPT
 
 
 ### Prerequisitos
 
 Debe tener instalado Python y Docker
 * Instalar Python (<a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>).
-* Obtener el API KEY de OpenAI (<a href="https://openai.com/">https://openai.com/</a>).
-* Agregar el API KEY en el archivo core/Recommedation.py openai.api_key='TU_APIKEY'
+* Obtener el API KEY de OpenAI (opcional) (<a href="https://openai.com/">https://openai.com/</a>).
 
 * Clonar el repositorio
   ```sh
